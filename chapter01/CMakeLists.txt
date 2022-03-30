@@ -8,3 +8,4 @@ include_directories(${EIGEN3_INCLUDE_DIR})
 
 add_executable(main main.cpp)
 add_executable(mainOverload mainOverload.cpp)
+add_executable(recursiveTest recursiveTest.cpp)
